@@ -2,11 +2,6 @@
 {
     public interface IBaseRepository<TKey, TEntity>
     {
-        /// <summary>
-        /// Lấy danh sách của tất cả đối tượng TEntity 
-        /// </summary>
-        /// <returns>IEnumerable<Entity></returns>
-        /// Author: Vũ Đức Giang
         IEnumerable<TEntity> GetAll();
 
         TEntity GetByID(TKey id);

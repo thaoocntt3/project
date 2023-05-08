@@ -25,12 +25,6 @@ namespace WebFilm.Infrastructure.Repository
         }
 
         #region Method
-        /// <summary>
-        /// Lấy tất cả dữ liệu
-        /// </summary>
-        /// <typeparam name="TEntity">type of obj</typeparam>
-        /// <returns>Danh sách obj</returns>
-        /// Author: Vũ Đức Giang
         public IEnumerable<TEntity> GetAll()
         {
             using (SqlConnection = new MySqlConnection(_connectionString))
