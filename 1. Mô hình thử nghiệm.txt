@@ -1,0 +1,101 @@
+1. Mô hình thử nghiệm
+2. Kịch bản thử nghiệm, mỗi kịch bản có chỉ số ID
+- Mỗi kịch bản chỉ ra: nội dung kiểm thử, out put mong muốnn
+- Ngành, tên đề tài
+- Sửa lại mục lục
+1. 
+2. Mục tiêu đề tài
+3. Nội dung nghiên cứu
+4. PP nghiên cứu
+5. Kết quả dự kiến
+6. Bố cục bc
+1. Tổng quan ứng dụng web thương mại điện tử
+1.1 Giới thiệu về thương mại đt
+- kn
+- nd
+- yn
+1.2 Việc ứng dụng web trong tmdt
+- Mô hình web ứng dụng cho tmdt
+- Công nghệ
+- Phân tích công nghê mình sử dụng
+- Sơ đồ mình xây dựng để giải quyết bài toán
+
+Chương 2: Phân tích thiết kế hệ thống
+- Biểu đồ
+- Thiết kế hệ thống(rational rose)
+- Thiết kế UI(figma)
+
+Chương 3
+- Mô hình cụ thể thực hiện thử nghiệm
+- Các kịch bản thử nghiệm
+
+Kết luận:
+- Tổng hợp, vận dụng kiến thức vào giải quyết bài toán thực tế
+- Khảo sát bài toán thực tế
+- Phát triển công nghệ xây dựng các trang web tmdt 
+- Xây dựng chương trình pt tmdt
+- Phân tích thiết kế hệ thống
+- Đánh giá và xây dựng được các kịch bản thử nghiệm
+
+Tài liệu tham khảo: giáo trình, 7-10 tài liệu
+Danh mục kí tự viết tắt
+wireframe
+
+1. Sai format bìa rồi=> cái này để t sửa nhé
+2. Đánh số trang từ mục lục trở đi nhé
+3. Thiếu danh mục hình ảnh, danh mục bảng biểu, danh mục các kí hiệu, các chữ viết tắt 
+4. Bỏ phần mở đầu đi
+Bố cục chia lại như sau:
+Bìa
+Mục lục
+Danh mục hình ảnh
+Danh mục bảng biểu
+Danh mục các kí hiệu, các chữ viết tắt
+Chương 1: Tổng quan về đề tài nghiên cứu
+- có 5 mục:
++ Khảo sát đề tài
++ Mục tiêu đề tài
++ Nội dung nghiên cứu đề tài
++ Phương pháp nghiên cứu đề tài
++ Kết quả dự kiến
++ Bố cục báo cáo
+
+Chương 2: Tổng quan ứng dụng web thương mại điện tử
+2.1 Giới thiệu về thương mại đt
+- khái niệm
+- Nội dung
+- Ý nghĩa
+2.2 Việc ứng dụng web trong tmdt
+- Mô hình web ứng dụng cho tmdt
+- Công nghệ sử dụng phát triển tmdt
+- Phân tích công nghê mình sử dụng trong đề tài
+- Sơ đồ mình xây dựng để giải quyết bài toán 
+
+Chương 3: Phân tích thiết kế hệ thống
+3.1 Biểu đồ use case
+	3.1.1 Các uc chính
+	3.1.2 Quan hệ giữa các uc
+3.2 Mô tả chi tiết các uc
+	3.2.1 uc A
+	...
+3.3 Biểu đồ trình tự
+3.4 Biểu đồ lớp
+3.5 Thiết kế csdl
+	3.5.1 Mô hình dữ liệu quan hệ
+	3.5.2 Chi tiết các bảng
+3.6 Thiết kế UI(sử dụng figma)
+
+Chương 4: Cài đặt hệ thống và một số kết quả đạt được
+4.1 Công nghệ đã sử dụng
+4.2 Môi trường đã sử dụng
+4.3 Các kịch bản thực nghiệm
+4.4 Một số kết quả đạt được
+
+Kết luận
+Tài liệu tham khảo
+Bạn đã gửi
+đại thể là nó sẽ như này
+
+
+
+
